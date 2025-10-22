@@ -660,7 +660,7 @@ Explore the shift to scalable, unified models through multi-task learning (Hydra
 <a id='GoogleTalk'></a>
 这个很有意思，单独总结
 
-> [\[Recsys25\]Google-The Future of Personalized Universal Assistant]()
+<a href="./GoogleTalk/[Recsys25]Google-The Future of Personalized Universal Assistant.md" title="[Recsys25]Google-The Future of Personalized Universal Assistant">[Recsys25]Google-The Future of Personalized Universal Assistant </a>
 
 ![](148.jpg)
 <br>
